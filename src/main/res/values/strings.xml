@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_btnPreferences">Config</string>
+    <string name="app_btnConnect">Connect</string>
+    <string name="app_btnClose">Close</string>
+    <string name="app_inputHostIp">Host Address</string>
+    <string name="app_inputHostPort">Port</string>
+    <string name="app_inputCode">Code</string>
+    <string name="app_btnSave">Save</string>
+    <string name="app_connectionStatus">Status</string>
+</resources>
